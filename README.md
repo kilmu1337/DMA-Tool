@@ -1,6 +1,10 @@
 # DMA-Tool
 A modern Electron-based desktop application providing a sleek, fluent design interface for executing OpenOCD and PCIleech commands.
 
+## Preview
+![image](https://github.com/user-attachments/assets/35a1f4ed-b0d9-44ca-b1b3-4da7add0f2ff)
+![image](https://github.com/user-attachments/assets/70e59056-5fde-4b79-aa8a-88614407692d)
+
 ## Features
 
 - **Driver Installation** - Install required drivers(ch347/rs232) with real-time feedback
@@ -17,3 +21,9 @@ A modern Electron-based desktop application providing a sleek, fluent design int
 - **Command-line Tools**: OpenOCD and PCIleech
 - **Internationalization**: Custom implementation for English and Chinese
 - **Build System**: Electron Builder
+
+## Download
+https://github.com/kilmu1337/DMA-Tool/releases/
+
+## Github
+https://discord.gg/KilmuDMA
